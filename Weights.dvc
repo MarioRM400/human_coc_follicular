@@ -1,0 +1,18 @@
+outs:
+- hash: md5
+  path: Weights
+  files:
+  - relpath: best.pt
+    md5: fae9f3344c25e5704b008381546e5c23
+    size: 92765653
+    cloud:
+      storage:
+        etag: 08ecb09bd68ee281031001
+        version_id: '1696619100035180'
+  - relpath: pre.pt
+    md5: 6cca827f616051950c640fe99a1f438e
+    size: 92765653
+    cloud:
+      storage:
+        etag: 08d4baacd98ee281031001
+        version_id: '1696619106606420'
