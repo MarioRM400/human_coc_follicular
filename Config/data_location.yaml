@@ -1,0 +1,7 @@
+path: C:\ConceivableProjects\coc_follicular_h\AFTER\v1_2
+train: images/train 
+val: images/val 
+
+names:
+  0: dark_coc
+  1: light_coc
